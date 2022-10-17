@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JoinKalido</string>
+
+    <string name="string1">"Join Kalido"</string>
+    <string name="string2">"Join Kalido using your organisation email address"</string>
+    <string name="string3">"Don't belong to an organisation? Enter your personal email address instead"</string>
+    <string name="string4">"Enter you email address"</string>
+    <string name="string5">"Next"</string>
+    <string name="string6">"You can also join with"</string>
+    <string name="string7">"Continue with Google"</string>
+    <string name="string8">"Continue with Apple"</string>
+
+</resources>
